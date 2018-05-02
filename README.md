@@ -12,3 +12,5 @@ https://github.com/behave/behave
 1. Create virtualenv
 2. pip install from requirements
 3. run behave
+
+editing for git push
